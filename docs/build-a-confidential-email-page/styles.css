@@ -1,0 +1,44 @@
+body{
+	  background-color: #e0e0e0;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 40px;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+#email {
+  padding: 50px;
+  margin-top: 50px;
+  width: 500px;
+  border: 2px solid #000;
+  box-sizing: border-box; /* Ensures total width includes padding and border */
+  background-color: #f9f9f9;
+  font-family: Arial, sans-serif;
+}
+
+#confidential,
+#top-secret {
+  display: inline-block;
+  padding: 10px;
+  margin-left: 10px;
+  border: 1px solid red;
+  transform: rotate(-5deg);
+  font-weight: bold;
+  background-color: #ffe6e6;
+}
+
+#top-secret {
+  transform: rotate(5deg);
+  border-color: blue;
+  background-color: #e6f0ff;
+}
+
+p {
+  margin-top: 20px;
+  line-height: 1.5;
+}
+
+.blurred {
+  filter: blur(3px);
+}
