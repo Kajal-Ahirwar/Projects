@@ -1,4 +1,5 @@
 # Projects
+### ● Build a confidential email page ➡ https://Kajal-Ahirwar.github.io/Projects/build-a-confidential-email-page/
 ### ● Build a registration form ➡ https://Kajal-Ahirwar.github.io/Projects/build-a-registration-form/
 ### ● Build a CTA component ️➡ https://Kajal-Ahirwar.github.io/Projects/build-a-cta-component/
 ### ● Build an error message ➡ https://Kajal-Ahirwar.github.io/Projects/build-an-error-message/
@@ -13,4 +14,4 @@
 ### ● Build a checkout page ➡ https://Kajal-Ahirwar.github.io/Projects/build-a-checkout-page/
 ### ● Movie review page ➡ https://Kajal-Ahirwar.github.io/Projects/movie-review-page/
 ### ● To-do List ➡ https://Kajal-Ahirwar.github.io/Projects/To-do-List/
-
+### ● Design a contact form ➡ https://Kajal-Ahirwar.github.io/Projects/design-a-contact-form/
