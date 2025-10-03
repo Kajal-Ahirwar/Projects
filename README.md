@@ -6,5 +6,5 @@
 ## Build a heart icon ➡️
 ## Build a checkout page ➡️
 ## Movie review page ➡️
-## To-do List ➡️ https://Kajal-Ahirwar.github.io/Projects/To-do List/
+## To-do List ➡️ https://Kajal-Ahirwar.github.io/Projects/To-do-List/
 
